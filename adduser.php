@@ -1,6 +1,7 @@
 <?php
 
-//Project Phase 1 - This is the feature developed by Nadeem for Nithya's final project
+//Version 2 - Project Phase 1 - This is the feature developed by Nadeem for Nithya's final project
+//This feature is incorporated as final feature for adding users
 
 require_once 'Database.php';
 require_once 'userregistration.php';
