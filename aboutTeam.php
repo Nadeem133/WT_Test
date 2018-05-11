@@ -15,7 +15,7 @@
 <header> <?php include "header.php"; ?></header>
 <main>
 
-    <h1>Under Construction!!!</h1>
+    <h1>This page is under construction... UNDER CONSTRUCTION</h1>
 
 </main>
 <footer><?php include "footer.php"; ?></footer>

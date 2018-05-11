@@ -1,6 +1,6 @@
 <?php
 
-//Project Phase 1 - Feature 1 by Nadeem
+//Project Phase 1 - This is the feature developed by Nadeem for Nithya's final project
 
 require_once 'Database.php';
 require_once 'userregistration.php';
